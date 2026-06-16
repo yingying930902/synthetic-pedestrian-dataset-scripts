@@ -480,3 +480,7 @@ COLLECTION_NAME = "CameraArray"
 ARMATURE_NAME = "CC_neutral_without_marker"
 OUTPUT_DIR = r"C:\Blender\all_49cams"
 ```
+The data files are not included in this GitHub repository. They are available from the Zenodo record above.
+## License
+
+The code in this repository is released under the MIT License.
